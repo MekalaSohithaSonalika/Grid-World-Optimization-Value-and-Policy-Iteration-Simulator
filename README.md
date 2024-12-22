@@ -1,4 +1,4 @@
-# Grid World Optimization: Value and Policy Iteration Simulator
+# Grid World Value and Policy Iteration
 
 ### Overview
 This project simulates a **Grid World** where an agent navigates the environment to maximize its expected rewards using **Value Iteration** and **Policy Iteration** algorithms. The agent's goal is to learn the optimal policy that dictates the best action to take in each state to maximize the long-term reward. The code also includes a graphical interface to visualize the grid, utilities, and policies.
